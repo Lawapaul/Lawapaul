@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh Shekhawat</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
+<img align=“right” alt=“Coding” width=“400” src “https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47j7tw7t2lwshlajo3v0h8k9jrppvjr5fjn9asnj4s&ep=v1_gifs_search&rid=giphy.gif&ct=g”>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawapaul" alt="lawapaul" /></a> </p>
 
@@ -28,3 +30,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lawapaul&show_icons=true&locale=en&layout=compact" alt="lawapaul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawapaul&" alt="lawapaul" /></p>
+
