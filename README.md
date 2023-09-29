@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Singh Shekhawat</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2848&q=80">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawapaul" alt="lawapaul" /></a> </p>
