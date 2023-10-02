@@ -1,4 +1,4 @@
-<img style="float: right;" src="https://github.com/Lawapaul/Lawapaul/blob/main/Software%20Enginner.png">
+<img style="float: center;" src="https://github.com/Lawapaul/Lawapaul/blob/main/Software%20Enginner.png">
 <h1 align="center">Hi 👋, I'm Harshit Singh Shekhawat</h1>
 <h3 align="center">A Tech Enthusiast.</h3>
 
