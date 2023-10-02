@@ -14,19 +14,9 @@
 
 - 📫 How to reach me **harshitshekhawat501@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshitsingh_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitsingh_2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit-singh-shekhawat-6970581a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-singh-shekhawat-6970581a2" height="30" width="40" /></a>
-<a href="https://fb.com//profile.php?id=100006479210428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/profile.php?id=100006479210428" height="30" width="40" /></a>
-<a href="https://instagram.com/_harshitshekhawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harshitshekhawat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshit_singh205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshit_singh205" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//profile.php?id=100006479210428) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harshitshekhawat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-singh-shekhawat-6970581a2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HarshitSingh_2) 
 </p>
-
-
-
-
-
 
 
 # 💻 Tech Stack:
