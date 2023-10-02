@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-<img src="https://github.com/Lawapaul/Lawapaul/blob/main/img/Software%20Enginner.png" alt="banner" class="center">
+
 
 <h1 align="center">Hi 👋, I'm Harshit Singh Shekhawat</h1>
 <h3 align="center">A Tech Enthusiast.</h3>
