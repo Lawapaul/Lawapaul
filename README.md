@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/harshitsingh_2" target="blank"><img src="https://img.shields.io/twitter/follow/harshitsingh_2?logo=twitter&style=for-the-badge" alt="harshitsingh_2" /></a> </p>
 
-- 🌱 I’m currently learning Data Science and Web Development **Python, Java, Node.JS, Express.Js , Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lawapaul?tab=repositories](https://github.com/Lawapaul?tab=repositories)
 
