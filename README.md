@@ -1,4 +1,6 @@
-![image alt ><]("https://github.com/Lawapaul/Lawapaul/blob/main/Software%20Enginner.png")
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![banner](/img/Software%20Enginner.png)
+</div>
 <h1 align="center">Hi 👋, I'm Harshit Singh Shekhawat</h1>
 <h3 align="center">A Tech Enthusiast.</h3>
 
