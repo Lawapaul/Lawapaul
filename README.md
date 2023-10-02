@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 <img src="https://github.com/Lawapaul/Lawapaul/blob/main/img/Software%20Enginner.png"
      alt="banner"
      style="float: center; margin-right: 10px;" />
