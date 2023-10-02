@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh Shekhawat</h1>
-<h3 align="center">A tech enthusiast learning new skills everyday.</h3>
+<h3 align="center">A Tech Enthusiast Learning new Skills Everyday.</h3>
 
 <p align="left"> <a href="https://twitter.com/harshitsingh_2" target="blank"><img src="https://img.shields.io/twitter/follow/harshitsingh_2?logo=twitter&style=for-the-badge" alt="harshitsingh_2" /></a> </p>
 
